@@ -1,0 +1,21 @@
+[TIME_PARAMETERS]
+time_to_wait_on_site_from = 180
+time_to_wait_on_site_to = 360
+break_time_from = 3600
+break_time_to = 5400
+delay_time = 2
+
+[POSITION_PARAMETERS]
+icon_browser_button_x = 321
+icon_browser_button_y = 1057
+update_button_position_coords_x = 686
+update_button_position_coords_y = 29
+adv_button_position_coords_x = 949
+adv_button_position_coords_y = 462
+close_button_position_coords_x = 636
+close_button_position_coords_y = 14
+
+[BROWSER_PARAMETERS]
+search_page = 1
+site_page = 2
+
